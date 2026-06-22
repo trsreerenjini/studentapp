@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(108, 137, 137);
+    font-style: italic;
+}
+form{
+    text-align: center;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 15px;
+}
